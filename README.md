@@ -1,6 +1,6 @@
 # Moview review prediction model
 
-It used IMDB movie review datasets and Support Vector Machine(SVM) as classifiers. Label "1" indicates the positive reviews while "0" indicates negative reviews.
+This used IMDB movie review datasets and Support Vector Machine(SVM) as classifiers to predict if the review is positive or negative. Label "1" indicates the positive reviews while "0" indicates negative reviews.
 
 
 ### **Features adopted in this program:**
