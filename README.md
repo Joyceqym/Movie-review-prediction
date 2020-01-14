@@ -13,5 +13,5 @@ Word frequency and TF-IDF, Chi-Square and Select K Best methodologies has been a
 
 
 ### **Instructions to run:**
-1. Please tun the part2code.ipynb.
+1. Please run the part2code.ipynb from top to bottom.
 2. Since training model and predicting performs an exhaustive evaluation of all the models across all the features, it may takes a long time to execute.
