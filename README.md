@@ -13,6 +13,6 @@ Word frequency and TF-IDF, Chi-Square and Select K Best methodologies has been a
 
 
 ### **Instructions to run from terminal:**
-1. Make sure you havef installed Jupyter Notebook, use command "$ jupyter notebook" in command
+1. Make sure you have installed Jupyter Notebook, use command "$ jupyter notebook" in command。
 2. Run the part2code.ipynb in jupyter notebook from top to bottom.
 3. Since training model and predicting performs an exhaustive evaluation of all the models across all the features, it may takes a long time to execute.
